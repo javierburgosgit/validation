@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Obtener el path absoluto del directorio actual
+current_dir=$(pwd)
+
+# Mostrar el path
+echo "El path absoluto del directorio actual es: $current_dir"
